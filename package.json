@@ -1,0 +1,26 @@
+{
+  "name": "core.model.web3",
+  "version": "1.0.0",
+  "description": "Core Model For Web 3.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letratoken/core.model.web3.git"
+  },
+  "keywords": [
+    "Web3",
+    "Core",
+    "Model",
+    "Letra",
+    "Token"
+  ],
+  "author": "Letra Token Foundation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/letratoken/core.model.web3/issues"
+  },
+  "homepage": "https://github.com/letratoken/core.model.web3#readme"
+}
